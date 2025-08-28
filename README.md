@@ -1,7 +1,13 @@
 <div align="center">
+
 ![](https://raw.githubusercontent.com/tianqiqaq/CloudImageHosting/master/icon.png)
 #  医保卡 - VPet.Plugin.YiBaoKa
+
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable-next-line MD036 -->
 _ 有了医保卡，医生远离我！_
+<!-- prettier-ignore-end -->
+
 </div>
 ---
 在更好买药品分类中可以延长7天医保卡使用时长，医保卡有效期间购买药品将会获得80%费用减免。
