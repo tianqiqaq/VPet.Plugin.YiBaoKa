@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD033 MD041 -->
 <div align="center">
 
 ![](https://raw.githubusercontent.com/tianqiqaq/CloudImageHosting/master/icon.png)
@@ -5,7 +6,7 @@
 
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable-next-line MD036 -->
-_ 有了医保卡，医生远离我！_
+_有了医保卡，医生远离我！_
 <!-- prettier-ignore-end -->
 
 </div>
